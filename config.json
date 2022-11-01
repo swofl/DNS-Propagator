@@ -1,0 +1,7 @@
+{
+  "domain": "my-google.domain",
+  "user": "username",
+  "password": "password",
+  "updateInterval": 60000,
+  "debug": false
+}
